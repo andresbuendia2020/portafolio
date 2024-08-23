@@ -50,13 +50,13 @@ const Hero = () => {
                             </button>
                         </a>
                         <a
-                            href="https://drive.google.com/file/d/1miJMP7uF8v0dx-AyElaVS4vYU4QX5Zcq/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1Y2svSTdQywOM-ZHPqVe80KNJfKH6L73o/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="mb-4 sm:mb-0 sm:mr-4 green-pink-gradient p-[2px] rounded-[10px] shadow-card"
                         >
                             <button className="bg-[#151131] text-white px-4 py-2 rounded-lg transition duration-300 ease-in-out transform hover:scale-95">
-                                <strong>CV</strong>
+                                CV
                             </button>
                         </a>
                         <a
@@ -66,7 +66,7 @@ const Hero = () => {
                             className="mb-4 sm:mb-0 sm:mr-4 green-pink-gradient p-[2px] rounded-[10px] shadow-card"
                         >
                             <button className="bg-[#151131] text-white px-4 py-2 rounded-lg transition duration-300 ease-in-out transform hover:scale-95">
-                                <strong>Cert. Laborales</strong>
+                                Cert Lab...
                             </button>
                         </a>
                     </div>
