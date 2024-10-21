@@ -40,6 +40,7 @@ import phone from "./phone.svg";
 import email from "./email.svg";
 import youtube from "./youtube.svg";
 import instagram from "./instagram.svg";
+import banistmo from "./banistmo.webp";
 
 export {
     logo,
@@ -77,6 +78,7 @@ export {
     wiedii,
     tul,
     trust4p,
+    banistmo,
     me,
     phone,
     email,

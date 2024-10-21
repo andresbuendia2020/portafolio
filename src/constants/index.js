@@ -22,6 +22,7 @@ import {
     wiedii,
     trust4p,
     tul,
+    banistmo
 } from "../assets";
 
 import joelPaez from "../assets/joelPaez.jpeg";
@@ -249,7 +250,54 @@ const testimonials = [
 const projects = [
     {
         upper_title: "",
-        date: "Mayo 2024 - Presente",
+        date: "Septiembre 2024 - Presente",
+        name: "Seti - Banistmo",
+        description:
+            "Banistmo, donde estoy trabajando con tecnologías como AWS Lambda y JavaScript. Mi enfoque principal es el desarrollo de soluciones en la nube, creando y gestionando funciones serverless, optimizando arquitecturas basadas en la nube y desarrollando aplicaciones que priorizan el alto rendimiento y la escalabilidad.",
+        tags: [
+            {
+                name: "Aws",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Lambda",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "javascript",
+                color: "text-yellow-500",
+            },
+            {
+                name: "Azure",
+                color: "text-gray-300",
+            },
+            {
+                name: "Ngrx",
+                color: "text-green-300",
+            },
+            {
+                name: "Angular",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "node.js",
+                color: "text-green-500",
+            },
+            {
+                name: "serverless",
+                color: "text-yellow-500",
+            },
+            {
+                name: "Unit tests",
+                color: "orange-text-gradient",
+            },
+        ],
+        image: banistmo,
+        source_code_link: "https://videface.app",
+    },
+    {
+        upper_title: "",
+        date: "Mayo 2024 - Junio 2024",
         name: "Trust4p",
         description:
             "Trust4P, donde se especializó en la creación de aplicaciones de empleo utilizando Angular 17. Durante su periodo en la empresa, contribuyó activamente al diseño, desarrollo y mantenimiento de plataformas web avanzadas para la gestión y búsqueda de empleo, aplicando metodologías ágiles y utilizando tecnologías como Angular, así como otras herramientas y bibliotecas relevantes para asegurar la eficiencia y la experiencia del usuario.",
