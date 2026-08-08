@@ -67,15 +67,15 @@ const services = [
         icon: web,
     },
     {
-        title: "Analista de desarrollo",
+        title: "Integración & APIs",
         icon: mobile,
     },
     {
-        title: "Desarrollador en Angular y React",
+        title: "Cloud & DevOps",
         icon: backend,
     },
     {
-        title: "Desarrollador en Python y TypeScript",
+        title: "Desarrollo Full Stack",
         icon: creator,
     },
 ];
@@ -253,43 +253,63 @@ const projects = [
         date: "Septiembre 2024 - Presente",
         name: "Seti - Banistmo",
         description:
-            "Banistmo, donde estoy trabajando con tecnologías como AWS Lambda y JavaScript. Mi enfoque principal es el desarrollo de soluciones en la nube, creando y gestionando funciones serverless, optimizando arquitecturas basadas en la nube y desarrollando aplicaciones que priorizan el alto rendimiento y la escalabilidad.",
+            "Ingeniero de Software en Servicios de Integración de Banistmo, trabajando en el desarrollo y mantenimiento de soluciones bancarias con Node.js, AWS y APIs. Participación en arquitecturas cloud, CI/CD, despliegues y evolución de servicios de integración.",
         tags: [
             {
-                name: "Aws",
+                name: "AWS",
                 color: "blue-text-gradient",
             },
             {
-                name: "Lambda",
+                name: "AWS Lambda",
                 color: "pink-text-gradient",
             },
             {
-                name: "javascript",
-                color: "text-yellow-500",
+                name: "API Gateway",
+                color: "text-purple-400",
             },
             {
-                name: "Azure",
-                color: "text-gray-300",
+                name: "CloudWatch",
+                color: "text-orange-400",
             },
             {
-                name: "Ngrx",
-                color: "text-green-300",
-            },
-            {
-                name: "Angular",
-                color: "orange-text-gradient",
-            },
-            {
-                name: "node.js",
+                name: "Node.js",
                 color: "text-green-500",
             },
             {
-                name: "serverless",
+                name: "TypeScript",
+                color: "text-blue-400",
+            },
+            {
+                name: "JavaScript",
                 color: "text-yellow-500",
             },
             {
-                name: "Unit tests",
+                name: "Azure DevOps",
+                color: "text-blue-500",
+            },
+            {
+                name: "CloudFormation",
+                color: "text-red-400",
+            },
+            {
+                name: "REST APIs",
+                color: "text-gray-300",
+            },
+            {
+                name: "OpenAPI",
+                color: "text-green-400",
+            },
+            {
+                name: "CI/CD",
                 color: "orange-text-gradient",
+            },
+            {
+                name: "Jest",
+                color: "text-red-300",
+            },
+            {
+                name: "Git",
+                color: "text-orange-500",
             },
         ],
         image: banistmo,

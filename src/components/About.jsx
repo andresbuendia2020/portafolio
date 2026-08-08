@@ -41,12 +41,7 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
             >
-                Ingeniero de software con especialidad en programación. 
-                Más de 5 años de experiencia brindando mis servicios profesionales 
-                a empresas de tecnología. He trabajado con empresas que integran 
-                una plantilla de más de 500 empleados, con un índice de satisfacción 
-                del 95%. Quiero brindar la misma calidad en su compañía y optimizar 
-                el rendimiento de los sistemas.
+                Soy Ingeniero de Software enfocado en crear soluciones eficientes, escalables y orientadas a resolver problemas reales. Mi experiencia abarca servicios de integración, APIs, desarrollo con Node.js y TypeScript, arquitecturas cloud con AWS y procesos de CI/CD con Azure DevOps.
             </motion.p>
 
             <div className="mt-20 flex flex-wrap gap-10">
