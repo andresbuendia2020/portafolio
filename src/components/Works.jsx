@@ -134,7 +134,7 @@ const Works = () => {
                     variants={fadeIn("", "", 0.1, 1)}
                     className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
                 >
-                    Hablemos de mi experiencia profesional. He trabajado como desarrollador frontend y analista de desarrollo con un fuerte enfoque en Angular, React, Python y TypeScript. Además, tengo experiencia como ingeniero de software. Siempre estoy ansioso por aprender y enfrentar nuevos desafíos. ¿Cuál será el próximo reto?
+                    Ingeniero de Software enfocado en el desarrollo de soluciones empresariales, integración de servicios y tecnologías cloud. Experiencia trabajando con Node.js, TypeScript, AWS y Azure DevOps, participando en el desarrollo, despliegue y evolución de soluciones escalables. Siempre buscando nuevos retos que me permitan seguir creciendo y aportar valor a través de la tecnología.
                 </motion.p>
             </div>
 
